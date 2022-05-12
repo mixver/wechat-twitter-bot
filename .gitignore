@@ -1,0 +1,9 @@
+node_modules/
+package-lock.json
+dist/
+.DS_Store
+.env
+config.json
+run.bat
+storage/
+bot.memory-card.json
